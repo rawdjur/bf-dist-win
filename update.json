@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "size_bytes": 145910799,
+  "protocol": 10,
+  "notes": [
+    "Initial updater-enabled Windows release",
+    "Includes in-game update checks"
+  ],
+  "download_url": "https://github.com/rawdjur/bf-dist-win/releases/download/v0.18.0/Blastfall-Windows.zip",
+  "sha256": "775113766c47092cc450513bde9be0ee8fd757703f3f6dbc5104fec3638f6751",
+  "version": "0.18.0",
+  "minimum_multiplayer_version": ""
+}
