@@ -1,13 +1,14 @@
 {
-  "schema": 1,
   "minimum_multiplayer_version": "",
+  "version": "0.18.1",
+  "schema": 1,
+  "download_url": "https://github.com/rawdjur/bf-dist-win/releases/download/0.18.1/Blastfall-Windows.zip",
   "protocol": 10,
+  "sha256": "d442f63b1341983775dc632c6c91c60dccfcfbdaf9f26145dd6a2deb365aba81",
   "notes": [
     "Updater bridge: prepares the Blastfall executable rename",
-    "Install this update before version 0.18.2"
+    "Install this update before version 0.18.2",
+    "Adds persistent updater diagnostics"
   ],
-  "download_url": "https://github.com/rawdjur/bf-dist-win/releases/download/v0.18.1/Blastfall-Windows.zip",
-  "size_bytes": 145911009,
-  "sha256": "627be13cde9842444c842f57e0986e41a85af411c9db8167bcbdc1753603dd33",
-  "version": "0.18.1"
+  "size_bytes": 145911657
 }
