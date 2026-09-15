@@ -1,13 +1,15 @@
 {
-  "minimum_multiplayer_version": "",
-  "sha256": "9ca83d7a2aa4aef13fb31b18832d8c05b9e3aba2214d88d008be2d6656c196f0",
-  "download_url": "https://github.com/rawdjur/bf-dist-win/releases/download/0.18.2/Blastfall-Windows.zip",
-  "version": "0.18.2",
-  "notes": [
-    "Windows executable is now Blastfall.exe",
-    "Requires the 0.18.1 updater bridge"
-  ],
-  "size_bytes": 145910984,
-  "schema": 1,
-  "protocol": 10
+    "version":  "0.18.3",
+    "download_url":  "https://github.com/rawdjur/bf-dist-win/releases/download/0.18.3/Blastfall-Windows.zip",
+    "schema":  1,
+    "notes":  [
+                  "Added Quick Match for online games",
+                  "Added automatic UPnP hosting",
+                  "Added public matchmaking service",
+                  "Manual Host/Join remains available"
+              ],
+    "protocol":  10,
+    "size_bytes":  144052566,
+    "minimum_multiplayer_version":  "",
+    "sha256":  "761700f9faaabe01bc538a3e78661bbb98bf0bf2e4c2481fedc7a7c6663ce77e"
 }
