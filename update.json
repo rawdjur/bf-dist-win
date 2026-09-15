@@ -1,14 +1,14 @@
 {
-    "version":  "0.18.4",
-    "download_url":  "https://github.com/rawdjur/bf-dist-win/releases/download/0.18.4/Blastfall-Windows.zip",
+    "version":  "0.18.5",
+    "download_url":  "https://github.com/rawdjur/bf-dist-win/releases/download/0.18.5/Blastfall-Windows.zip",
     "schema":  1,
     "notes":  [
-                  "Fixed Quick Match freezing during search, cancel, or shutdown",
-                  "Ignored stale matchmaking callbacks after cancellation",
-                  "Improved retry while previous UPnP cleanup finishes"
+                  "Fixed a Local Play crash caused by missing exported combat audio",
+                  "Improved hero selection clarity and Ready flow",
+                  "Added safer handling for missing audio resources"
               ],
     "protocol":  10,
-    "size_bytes":  144053056,
+    "size_bytes":  144117034,
     "minimum_multiplayer_version":  "",
-    "sha256":  "5ad559db759099550ed0be18d9ee0fdcbefdd67b48376b20e76e32c7e33308e6"
+    "sha256":  "7bc6db7eccd6633707d51cb4c7782007bbe332e4c2d9b9c74f24c70e33f32467"
 }
