@@ -1,15 +1,14 @@
 {
-    "version":  "0.18.3",
-    "download_url":  "https://github.com/rawdjur/bf-dist-win/releases/download/0.18.3/Blastfall-Windows.zip",
+    "version":  "0.18.4",
+    "download_url":  "https://github.com/rawdjur/bf-dist-win/releases/download/0.18.4/Blastfall-Windows.zip",
     "schema":  1,
     "notes":  [
-                  "Added Quick Match for online games",
-                  "Added automatic UPnP hosting",
-                  "Added public matchmaking service",
-                  "Manual Host/Join remains available"
+                  "Fixed Quick Match freezing during search, cancel, or shutdown",
+                  "Ignored stale matchmaking callbacks after cancellation",
+                  "Improved retry while previous UPnP cleanup finishes"
               ],
     "protocol":  10,
-    "size_bytes":  144052566,
+    "size_bytes":  144053056,
     "minimum_multiplayer_version":  "",
-    "sha256":  "761700f9faaabe01bc538a3e78661bbb98bf0bf2e4c2481fedc7a7c6663ce77e"
+    "sha256":  "5ad559db759099550ed0be18d9ee0fdcbefdd67b48376b20e76e32c7e33308e6"
 }
