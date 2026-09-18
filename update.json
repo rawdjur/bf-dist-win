@@ -1,14 +1,17 @@
 {
-    "version":  "0.18.5",
-    "download_url":  "https://github.com/rawdjur/bf-dist-win/releases/download/0.18.5/Blastfall-Windows.zip",
-    "schema":  1,
-    "notes":  [
-                  "Fixed a Local Play crash caused by missing exported combat audio",
-                  "Improved hero selection clarity and Ready flow",
-                  "Added safer handling for missing audio resources"
-              ],
-    "protocol":  10,
-    "size_bytes":  144117034,
-    "minimum_multiplayer_version":  "",
-    "sha256":  "7bc6db7eccd6633707d51cb4c7782007bbe332e4c2d9b9c74f24c70e33f32467"
+  "schema": 1,
+  "download_url": "https://github.com/rawdjur/bf-dist-win/releases/download/0.18.6/Blastfall-Windows.zip",
+  "minimum_multiplayer_version": "0.18.6",
+  "notes": [
+    "Major Trickster redesign with directional Hook, Proximity Mine, and Springboard.",
+    "Hook now supports Multishot, manual retraction, cancellation, and retrieving power-ups.",
+    "Wizard fireballs are stronger earlier in rounds, and Rebound behavior is fixed across all arcs.",
+    "Chain Caldera now takes structural damage and gains a timed spiral collapse.",
+    "Added a new soundtrack for the menu and every arena.",
+    "Added Match Settings, Balance Lab profiles, display/UI improvements, and fixes. Older builds must update for protocol 11 multiplayer."
+  ],
+  "size_bytes": 165131892,
+  "protocol": 11,
+  "sha256": "fab9e449eed2ff5a70c7a94e2aa0841ca9f8f175b0e3479e212c743712aaed60",
+  "version": "0.18.6"
 }
