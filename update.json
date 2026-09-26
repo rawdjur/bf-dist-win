@@ -1,14 +1,13 @@
 {
-    "version":  "0.18.9",
-    "download_url":  "https://github.com/rawdjur/bf-dist-win/releases/download/0.18.9/Blastfall-Windows.zip",
+    "version":  "0.18.10",
+    "download_url":  "https://github.com/rawdjur/bf-dist-win/releases/download/0.18.10/Blastfall-Windows.zip",
     "schema":  1,
     "notes":  [
-                  "Fixed Archer aim tracking while drawing and releasing online",
-                  "Added host Return to Lobby without disconnecting players",
-                  "Fixed online Brawler primary attacks being interrupted by unchanged mode updates"
+                  "Fixed Grapple Arrow aiming for hosting and online clients",
+                  "Preserved live crosshair aiming across repeated Grapple uses"
               ],
     "protocol":  11,
-    "size_bytes":  163296146,
+    "size_bytes":  163296238,
     "minimum_multiplayer_version":  "0.18.9",
-    "sha256":  "6f2a0203def533585106cfe6c9188d375f84706080f4aae63c6983e16e7bb2e9"
+    "sha256":  "4cb4a4d136dd4d5babbf152925adf42a2d0d5f644906f37e76e0e612d5feeddb"
 }
