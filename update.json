@@ -1,17 +1,17 @@
 {
-    "version":  "0.18.7",
-    "download_url":  "https://github.com/rawdjur/bf-dist-win/releases/download/0.18.7/Blastfall-Windows.zip",
+    "version":  "0.18.8",
+    "download_url":  "https://github.com/rawdjur/bf-dist-win/releases/download/0.18.8/Blastfall-Windows.zip",
     "schema":  1,
     "notes":  [
-                  "Major hero balance and gameplay pass",
-                  "Wizard reliability, Rebound explosions, and smoother augment scaling improved",
-                  "Trickster, Archer, and Brawler received major ability updates",
-                  "Added airborne knockback recovery and player names",
-                  "Highrise and Chain Caldera received major structural arena upgrades",
-                  "Added new music, Match Settings, Balance Lab profiles, UI fixes, and protocol 11"
+                  "Major hero balance and control improvements: Wizard aiming/Rebound, Archer draw/overdraw, and Brawler charged Leap Slam and augments.",
+                  "Trickster redesigned around Directional Hook, Proximity Mine, and Springboard; added limited airborne recovery.",
+                  "Highrise redesigned with AC gusts, four-corner collapse, red-girder routes, and construction cranes.",
+                  "Chain Caldera gains broader structural destruction and timed collapse; added player names and improved online lobby controls.",
+                  "New menu and arena music; improved Match Settings, Balance Lab, profiles, UI scaling, scrolling, and resolution handling.",
+                  "Numerous multiplayer, UI, and gameplay fixes. Multiplayer protocol remains 11."
               ],
     "protocol":  11,
-    "size_bytes":  163293956,
+    "size_bytes":  163295704,
     "minimum_multiplayer_version":  "0.18.6",
-    "sha256":  "9d1bfcf1c8306d7a2dd3c747838d9a43ab030011ec2762dbf56ee756fb3059f4"
+    "sha256":  "3bde382207cd054e6173ee4d7f068883db1d4558fa9a33bec99be1dbc560cc92"
 }
