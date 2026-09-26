@@ -1,17 +1,17 @@
 {
-  "schema": 1,
-  "download_url": "https://github.com/rawdjur/bf-dist-win/releases/download/0.18.6/Blastfall-Windows.zip",
-  "minimum_multiplayer_version": "0.18.6",
-  "notes": [
-    "Major Trickster redesign with directional Hook, Proximity Mine, and Springboard.",
-    "Hook now supports Multishot, manual retraction, cancellation, and retrieving power-ups.",
-    "Wizard fireballs are stronger earlier in rounds, and Rebound behavior is fixed across all arcs.",
-    "Chain Caldera now takes structural damage and gains a timed spiral collapse.",
-    "Added a new soundtrack for the menu and every arena.",
-    "Added Match Settings, Balance Lab profiles, display/UI improvements, and fixes. Older builds must update for protocol 11 multiplayer."
-  ],
-  "size_bytes": 165131892,
-  "protocol": 11,
-  "sha256": "fab9e449eed2ff5a70c7a94e2aa0841ca9f8f175b0e3479e212c743712aaed60",
-  "version": "0.18.6"
+    "version":  "0.18.7",
+    "download_url":  "https://github.com/rawdjur/bf-dist-win/releases/download/0.18.7/Blastfall-Windows.zip",
+    "schema":  1,
+    "notes":  [
+                  "Major hero balance and gameplay pass",
+                  "Wizard reliability, Rebound explosions, and smoother augment scaling improved",
+                  "Trickster, Archer, and Brawler received major ability updates",
+                  "Added airborne knockback recovery and player names",
+                  "Highrise and Chain Caldera received major structural arena upgrades",
+                  "Added new music, Match Settings, Balance Lab profiles, UI fixes, and protocol 11"
+              ],
+    "protocol":  11,
+    "size_bytes":  163293956,
+    "minimum_multiplayer_version":  "0.18.6",
+    "sha256":  "9d1bfcf1c8306d7a2dd3c747838d9a43ab030011ec2762dbf56ee756fb3059f4"
 }
