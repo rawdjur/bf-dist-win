@@ -1,13 +1,17 @@
 {
-    "version":  "0.18.10",
-    "download_url":  "https://github.com/rawdjur/bf-dist-win/releases/download/0.18.10/Blastfall-Windows.zip",
+    "version":  "0.18.11",
+    "download_url":  "https://github.com/rawdjur/bf-dist-win/releases/download/0.18.11/Blastfall-Windows.zip",
     "schema":  1,
     "notes":  [
-                  "Fixed Grapple Arrow aiming for hosting and online clients",
-                  "Preserved live crosshair aiming across repeated Grapple uses"
+                  "Added Free, Follow, and Locked camera options with improved controller-friendly movement",
+                  "Added a clearer hero ability HUD and reorganized Settings",
+                  "Added Low, Medium, and High graphics presets plus performance diagnostics",
+                  "Improved Highrise bot navigation, crowd behavior, and directional online aim",
+                  "Simplified Brawler controls; Home Run now returns eligible incoming projectiles",
+                  "Numerous UI, control, and network fixes"
               ],
     "protocol":  11,
-    "size_bytes":  163296238,
+    "size_bytes":  163329505,
     "minimum_multiplayer_version":  "0.18.9",
-    "sha256":  "4cb4a4d136dd4d5babbf152925adf42a2d0d5f644906f37e76e0e612d5feeddb"
+    "sha256":  "68daed14ce21a0cd75df5f103a08ad4336c57a2003c283219029cb54b4b9ff60"
 }
